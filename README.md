@@ -1,4 +1,3 @@
 # hello-world
 
-Hi!
-a noob that try to learn
+I'm a noob that try to learn
